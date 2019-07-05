@@ -13,15 +13,22 @@ The code has been tested on:
 - [Pytorch](https://pytorch.org/) v0.4.0
 - Opencv 3.0
 
+## Input Images
+![op](images/ip.png)
+
 
 ## Architecture
 <!-- ![Alt text](images/unet2.png?raw=true "Title") -->
 <!-- ![Screenshot](images/unet2.png) -->
-![op](images/op.png)
+![op](images/unet2.png)
 
 
 ## Urbanization detection output
-<!-- <img src="https://sagarverma.github.io/others/CD_IGARSS_2019.png"> -->
+![results](images/results.png)
+
+![cm](images/confusionmatrix.png)
+
+
 
 ## Multidate Sentinel-2 dataset
 
